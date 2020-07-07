@@ -21,5 +21,11 @@
     <ClCompile Include="形参实参.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="函数的返回值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
